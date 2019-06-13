@@ -1,2 +1,4 @@
 url: wei213
 baseurl: /wei213.github.io
+theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
